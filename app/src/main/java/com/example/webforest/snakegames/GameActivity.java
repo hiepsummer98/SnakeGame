@@ -28,6 +28,7 @@ import java.io.IOException;
 import java.util.Random;
 
 public class GameActivity extends Activity {
+    // ví dụ đây là code thêm mới. OK
 
     Canvas canvas;
     SnakeView snakeView;
